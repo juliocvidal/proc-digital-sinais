@@ -8,6 +8,6 @@
 1. Janela Fixa Retangular
 1. Janela Fixa Hanning
 1. Janela Fixa Hamming
-1. Janela Fixa Bartlet
+1. Janela Fixa Bartlett
 
 
